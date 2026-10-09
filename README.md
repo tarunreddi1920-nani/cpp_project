@@ -1,5 +1,5 @@
-Movie Ticket Booking System in C++
-Project Overview
+#Movie Ticket Booking System in C++
+#Project Overview
 This is a beginner-level, menu-driven C++ console application that simulates a basic movie ticket booking process.
 
 Features in Version 1
